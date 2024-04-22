@@ -4,4 +4,4 @@ This repository serves as a central directory of all publications at the BEA wor
 
 The code and data associated with the respective publications is found in the repositories linked below:
 
-* Maja Stahl, Leon Biermann, Andreas Nehring and Henning Wachsmuth. Exploring LLM Prompting Strategies for Joint Essay Scoring and Feedback Generation. [[paper](#)] [[code]([#](https://github.com/webis-de/bea24-essay-feedback-generation))]
+* Maja Stahl, Leon Biermann, Andreas Nehring and Henning Wachsmuth. Exploring LLM Prompting Strategies for Joint Essay Scoring and Feedback Generation. [[paper](#)] [[code](https://github.com/webis-de/bea24-essay-feedback-generation)]
